@@ -6,7 +6,7 @@ Brief overview of the presentation topic: CUSTOM IMAGES for page background in P
 - Importance of the technical technique in the assigned domain (i.e. Team Reporting, Team ETL, etc)
 - Objectives of the presentation: to present easy shortcuts to background and layout design of PowerBI dashboard.
 
-## Background
+## <a href="https://www.flaticon.com/free-icons/gold-star" title="gold star icons">Gold star icons created by juicy_fish - Flaticon</a> Background
 - Current state of technology in the domain: 
 - Challenges and opportunities: callenges are only limited time to play with the design, when one needs to quickly present the data, opputunity lies where you know how to quickly beautify the dashboard
 
