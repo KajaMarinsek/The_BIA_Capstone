@@ -1,8 +1,8 @@
 # Technical Technique Presentation Proposal
 
 ## Introduction
-- # Brief overview of the presentation topic:
-   * CUSTOM IMAGES for page background in POWER BI
+ ![image](https://github.com/KajaMarinsek/Presentation-DOCS/assets/148265391/69cd7bb3-c367-4461-9917-a40477ffc849)
+Brief overview of the presentation topic: CUSTOM IMAGES for page background in POWER BI
 - Importance of the technical technique in the assigned domain (i.e. Team Reporting, Team ETL, etc)
 - Objectives of the presentation: to present easy shortcuts to background and layout design of PowerBI dashboard.
 
