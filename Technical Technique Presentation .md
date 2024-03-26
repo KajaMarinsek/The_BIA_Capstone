@@ -1,5 +1,5 @@
 # Technical Technique Presentation Proposal
-
+<img src="https://github.com/dolinger-nscc/Capstone2024/blob/main/img/icons8-rocket-50.png?raw=true" alt="Sized Rocket" width="25px" height="25px">
 ## Introduction
  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/assets/148265391/69cd7bb3-c367-4461-9917-a40477ffc849)
 Brief overview of the presentation topic: CUSTOM IMAGES for page background in POWER BI
