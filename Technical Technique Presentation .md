@@ -1,9 +1,10 @@
 # Technical Technique Presentation Proposal
 
 ## Introduction
-- Brief overview of the presentation topic: CUSTOM IMAGES for page background
+- # Brief overview of the presentation topic:
+   * CUSTOM IMAGES for page background in POWER BI
 - Importance of the technical technique in the assigned domain (i.e. Team Reporting, Team ETL, etc)
-- Objectives of the presentation: to present easy shortcuts to background and layout design of PowerBI dashboard
+- Objectives of the presentation: to present easy shortcuts to background and layout design of PowerBI dashboard.
 
 ## Background
 - Current state of technology in the domain: 
