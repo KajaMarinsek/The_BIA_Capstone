@@ -2,10 +2,10 @@
 
 # Business Intelligence Presentation Proposal
 
-## Introduction
-- Overview of the business intelligence topic
-- # Setting Background IMAGES in the PowerBI Reports
-- Significance of data-driven decision-making: 
+## Introduction 
+Overview of the business intelligence topic:
+ # THE EARTH OVERSHOOT DAY
+- Significance of data-driven decision-making: __The whole premise of Earth Overshoot Day is data! "Ecological Footprint© Explorer open data platform allows anyone to explore and download National Footprint and Biocapacity Accounts data. Updated every year, the Accounts track human demand and nature’s capacity to meet that demand for more than 200 countries." I will explore the data that infulences the longivity of countries and the Earth on the whole.__
 - Goals of the presentation: __I want to learn how the World Overshoot Day is obtaines and what parameters are included into the consideration.__
 
 
@@ -15,7 +15,10 @@
 ## Introduction  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png) 
 
 Brief overview of the presentation topic: 
-# Setting Background IMAGES in the PowerBI Reports
+# Earth Overshoot Day is calculated by dividing Earth's biocapacity by man's ecological footprint and multiplying the result by 365 days. Similar calculations are applied on a country-by-country basis to determine Country Overshoot Days each year. 
+https://www.weforum.org/agenda/2023/08/earth-overshoot-day-human-consumption-biocapacity-ecological-footprint/#:~:text=Earth%20Overshoot%20Day%20is%20calculated,Country%20Overshoot%20Days%20each%20year.
+
+Setting Background IMAGES in the PowerBI Reports
 - Importance of the technical technique in the assigned domain: __I was assigned to the Team Reporting.__
 - Objectives of the presentation: __To present an easy shortcuts to background design of PowerBI dashboard reports.__
 
