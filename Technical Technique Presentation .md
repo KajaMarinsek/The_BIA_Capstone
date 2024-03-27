@@ -17,8 +17,8 @@ Brief overview of the presentation topic:
 Also, as BIA professionals we only have a limited time to play with the design when presenting important data so the opputunity lies with knowing how to quickly beautify the presentation.__
 
 ## Presentation Candidate   ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png) 
--  ![image] Kaja Marinsek, W0456542 student of graduate certificat in Business Intelligence and Analystics
-- Relevant experience and expertise
+![image] - __Kaja Marinsek, W0456542, NSCC student of graduate certificat in Business Intelligence and Analystics__
+- Relevant experience and expertise: __A graduate civil engineer from Slovenia with passion for data ;)__
 
 ##  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png)  Sample Data Selection
 - Criteria for selecting sample data: I was drawn to National Footprint and Biocapacity Accounts 2023 free Public Data Package.
