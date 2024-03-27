@@ -8,16 +8,16 @@
 
 Brief overview of the presentation topic: 
 # Setting Background IMAGES in the PowerBI Reports
-- Importance of the technical technique in the assigned domain: *I was assigned to the Team Reporting.*
-- Objectives of the presentation: _to present easy shortcuts to background and layout design of PowerBI dashboard._
+- Importance of the technical technique in the assigned domain: __I was assigned to the Team Reporting.__
+- Objectives of the presentation: __To present an easy shortcuts to background design of PowerBI dashboard reports.__
 
 ##  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png)  Background
-- Current state of technology in the domain: _I am using Power BI Desktop 2.126.1261.0_
-- Challenges and opportunities: Challenge is that I wished to create a *.json file with scrip to automaticaly set my theme background image to every page in my dashboard report, but this version does not seam to support that. So i focused on setting the background with uploding images in format page pannel where i added some extra visuals.
-Also, as BIA professionals we only have a limited time to play with the design when presenting important data so the , opputunity lies whitin knowing how to quickly beautify the dashboard. 
+- Current state of technology in the domain: __I am using Power BI Desktop 2.126.1261.0__
+- Challenges and opportunities: __Challenge is that I wished to create a *.json file with scrip to automaticaly set my theme background image to the every page in my dashboard report. It seams this version does notsupport that. So I have focused on setting the background with uploding images whitin format page pannel where I added some extra visuals.
+Also, as BIA professionals we only have a limited time to play with the design when presenting important data so the opputunity lies with knowing how to quickly beautify the presentation.__
 
 ## Presentation Candidate   ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png) 
-- Kaja Marinsek, W0456542 student of graduate certificat in Business Intelligence and Analystics
+-  ![image] Kaja Marinsek, W0456542 student of graduate certificat in Business Intelligence and Analystics
 - Relevant experience and expertise
 
 ##  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png)  Sample Data Selection
