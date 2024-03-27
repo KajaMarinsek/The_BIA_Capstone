@@ -23,12 +23,18 @@ Also, as BIA professionals we only have a limited time to play with the design w
 ##  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png)  Sample Data Selection
 - Criteria for selecting sample data: __I was drawn to National Footprint and Biocapacity Accounts 2023 free Public Data Package when I saw the beautiful infographic created by Global Footprint Network 2024, www.overshootday.org.__
 - Sources of sample data: https://www.footprintnetwork.org/licenses/public-data-package-free/
-- Relevance of the data to the demonstration: __This data is what I will work on my final project, I could demonstrate the technical technique with any background data and image.
+- Relevance of the data to the demonstration: __This data is what I will work on my final project, I could demonstrate the technical technique with any background data and image.__
 
 ## Technical Technique Demonstration   ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png) 
-- Description of the technical technique: Finding the buttons in the GUI
+- Description of the technical technique: __Finding the buttons in the GUI__
 - Steps for applying the technique to the sample data:
-- Expected outcomes and benefits: Pretty and readable.
+- __1. Choose any image that you want to use for the background of presentation pages of your dashboard design in Power BI and remeber which folder you saved it to.__
+-  __2. In the main page of the dashboard got to the side pannel calles Visualizations, chose paper and pencil icon that stands for "Format your report page" chose Canvas Background.__
+- __3. Search for your image.__
+-  __4. Choose the Image fit and Transparency.
+      Alternatively, one can download and add a new visual called "Image Viewer" to their Visualizations pannel and works with the urls of the photos...__
+  https://pragmaticworksonline.sharepoint.com/sites/FileShare/Shared%20Documents/Forms/FileView.aspx?id=%2Fsites%2FFileShare%2FShared%20Documents%2FTraining%2FPower%20BI%20Custom%20Visuals%2FCustom%20Visuals&p=true&ga=1
+- Expected outcomes and benefits: __Pretty and Fun PowerBI Presentation Dashboard.__
 
 ##  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png)   Implementation Plan
 - Timeline for the preparation of the presentation: 3 days, to Prepare a sample dashboard and than choose the photo for the bakcground with color scale.
