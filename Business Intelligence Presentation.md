@@ -1,6 +1,12 @@
+![BIABanner](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/EarthBanner.png)
+
 # Business Intelligence Presentation Proposal
 
-![BIABanner](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/EarthBanner.png)
+## Introduction
+- Overview of the business intelligence topic
+- # Setting Background IMAGES in the PowerBI Reports
+- Significance of data-driven decision-making: 
+- Goals of the presentation: __I want to learn how the World Overshoot Day is obtaines and what parameters are included into the consideration.__
 
 
 
