@@ -1,3 +1,6 @@
+![TechBanner](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/laptop-3361063_1280.jpg?raw=true)
+
+
 # Technical Technique Presentation Proposal
  ![image](https://www.flaticon.com/free-icons/analyse" title="analyse icons">Analyse icons created by SBTS2018 - Flaticon</a>)
 <a href="https://www.flaticon.com/free-icons/analyse" title="analyse icons">Analyse icons created by SBTS2018 - Flaticon</a>
