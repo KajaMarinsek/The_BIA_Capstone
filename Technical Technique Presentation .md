@@ -1,4 +1,6 @@
 # Technical Technique Presentation Proposal
+ ![image](https://www.flaticon.com/free-icons/analyse" title="analyse icons">Analyse icons created by SBTS2018 - Flaticon</a>)
+<a href="https://www.flaticon.com/free-icons/analyse" title="analyse icons">Analyse icons created by SBTS2018 - Flaticon</a>
 <img src="https://github.com/dolinger-nscc/Capstone2024/blob/main/img/icons8-rocket-50.png?raw=true" alt="Sized Rocket" width="25px" height="25px">
 ## Introduction
  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/assets/148265391/69cd7bb3-c367-4461-9917-a40477ffc849)
