@@ -17,13 +17,13 @@ Brief overview of the presentation topic:
 Also, as BIA professionals we only have a limited time to play with the design when presenting important data so the opputunity lies with knowing how to quickly beautify the presentation.__
 
 ## Presentation Candidate   ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png) 
-![image] - __Kaja Marinsek, W0456542, NSCC student of graduate certificat in Business Intelligence and Analystics__
+- __Kaja Marinsek W0456542, NSCC student of graduate certificat in Business Intelligence and Analystics__
 - Relevant experience and expertise: __A graduate civil engineer from Slovenia with passion for data ;)__
 
 ##  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png)  Sample Data Selection
-- Criteria for selecting sample data: I was drawn to National Footprint and Biocapacity Accounts 2023 free Public Data Package.
+- Criteria for selecting sample data: __I was drawn to National Footprint and Biocapacity Accounts 2023 free Public Data Package when I saw the beautiful infographic created by Global Footprint Network 2024, www.overshootday.org.__
 - Sources of sample data: https://www.footprintnetwork.org/licenses/public-data-package-free/
-- Relevance of the data to the demonstration: This data is just what will i work on my final project, i could demonstrate the background image and layouts of dashboard on any data
+- Relevance of the data to the demonstration: __This data is what I will work on my final project, I could demonstrate the technical technique with any background data and image.
 
 ## Technical Technique Demonstration   ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png) 
 - Description of the technical technique: Finding the buttons in the GUI
