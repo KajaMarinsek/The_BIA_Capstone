@@ -1,6 +1,6 @@
 # Business Intelligence Presentation Proposal
 
-![BIABanner](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/laptop-3361063_1280.jpg?raw=true)
+![BIABanner](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/EarthBanner.png)
 
 
 
