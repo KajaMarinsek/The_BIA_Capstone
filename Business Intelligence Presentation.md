@@ -15,7 +15,7 @@ Overview of the business intelligence topic:
 - __Goals of the presentation:__ I want to learn how the World Overshoot Day is obtained and what parameters are included into the calculations.
 
 
-## ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png) Presentation Candidate
+## ![image](https://github.com/KajaMarinsek/The_BIA_Capstone/blob/main/images/ICONGirlwithSlushisippy.png) Presentation Candidate
 - __Name and professional background:__ Kaja Marinsek, 
 A graduate civil engineer from Slovenia with passion for data ;)
 - __Experience with business intelligence tools and methodologies:__  As NSCC student of graduate certificat in Business Intelligence and Analystics I have become proficient in Excel Power Query, SQL and Python languages, Orange for data analysis and Power BI as presentation tool.
