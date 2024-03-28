@@ -30,8 +30,8 @@ A graduate civil engineer from Slovenia with passion for data ;)
 
 ## ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png)  Business Intelligence Techniques Demonstration
 - __Overview of the selected business intelligence techniques:__ First I will open the data with Excel, create a model that will help with quick PowerBI dashboard. If the data will require cleaning i will use Python in Jupyter Notebook where we have created a EDA pipeline.
-- __Process of applying these techniques to the chosen data:__
-- __Anticipated insights and their impact on business strategies__
+- __Process of applying these techniques to the chosen data:__ There is not a lots of data, from my main source i expext data to be pretty clean and preprocessed. I will focus mainly on model and how was Overshot Day calculated. In my presentation I will compare different Countries and see if get some interesting insights with data analysis.
+- __Anticipated insights and their impact on business strategies:__ "There is no planet B"
 
 
 
