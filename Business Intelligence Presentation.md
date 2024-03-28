@@ -16,13 +16,12 @@ Overview of the business intelligence topic:
 
 
 ## ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png) Presentation Candidate
-- __Name and professional background:__ Kaja Marinsek W0456542, 
+- __Name and professional background:__ Kaja Marinsek, 
 A graduate civil engineer from Slovenia with passion for data ;)
-- __Experience with business intelligence tools and methodologies:__ NSCC student of graduate certificat in Business Intelligence and Analystics
+- __Experience with business intelligence tools and methodologies:__  As NSCC student of graduate certificat in Business Intelligence and Analystics I have become proficient in Excel Power Query, SQL and Python languages, Orange for data analysis and Power BI as presentation tool.
 
 
-
-##  Sample Data Selection ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png) 
+## Data Selection ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png) 
 - Criteria for selecting sample data: __I was drawn to National Footprint and Biocapacity Accounts 2023 free Public Data Package when I saw the beautiful infographic created by Global Footprint Network 2024, www.overshootday.org.__
 - Sources of sample data: https://www.footprintnetwork.org/licenses/public-data-package-free/
 - Relevance of the data to the demonstration: __This data is what I will work on my final project, I could demonstrate the technical technique with any background data and image.__
@@ -58,9 +57,9 @@ A graduate civil engineer from Slovenia with passion for data ;)
 
 
 ## Data Selection
-- Criteria for selecting sample data: I was drawn to National Footprint and Biocapacity Accounts 2023 free Public Data Package.
-- Sources of sample data: https://www.footprintnetwork.org/licenses/public-data-package-free/
-- Relevance of the data to the demonstration: This data is just what will i work on my final project, i could demonstrate the background image and layouts of dashboard on any data
+- __Criteria for choosing the dataset:__ I was drawn to National Footprint and Biocapacity Accounts 2023 free Public Data Package. I was searching for meaningful data, somthing temporal and with enough features.
+- __Potential sources for data acquisition:__ https://www.footprintnetwork.org/licenses/public-data-package-free/
+- __Relevance of the chosen data to the business domain:__ 
 
 ## Business Intelligence Techniques Demonstration
 - Overview of the selected business intelligence techniques
