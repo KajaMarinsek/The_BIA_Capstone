@@ -21,14 +21,14 @@ A graduate civil engineer from Slovenia with passion for data ;)
 - __Experience with business intelligence tools and methodologies:__  As NSCC student of graduate certificat in Business Intelligence and Analystics I have become proficient in Excel Power Query, SQL and Python languages, Orange for data analysis and Power BI as presentation tool.
 
 
-## Data Selection ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png) 
+## Data Selection ![image](https://github.com/KajaMarinsek/The_BIA_Capstone/blob/main/images/ICONEarthData.png) 
 - __Criteria for choosing the dataset:__ I was drawn to National Footprint and Biocapacity Accounts 2023 free Public Data Package. I was searching for meaningful data, somthing temporal and with enough features.
 - __Potential sources for data acquisition:__ https://www.footprintnetwork.org/licenses/public-data-package-free/
 - __Relevance of the chosen data to the business domain:__ It depends on the business I guess... 🤔 But this data is more about health of our planet!
 
 - Relevance of the data to the demonstration: __This data is what I will work on my final project, I could demonstrate the technical technique with any background data and image.__
 
-## ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png)  Business Intelligence Techniques Demonstration
+## ![image](https://github.com/KajaMarinsek/The_BIA_Capstone/blob/main/images/ICONEarthBigData.png)  Business Intelligence Techniques Demonstration
 - __Overview of the selected business intelligence techniques:__ First I will open the data with Excel, create a model that will help with quick PowerBI dashboard. If the data will require cleaning i will use Python in Jupyter Notebook where we have created a EDA pipeline.
 - __Process of applying these techniques to the chosen data:__ There is not a lots of data, from my main source i expext data to be pretty clean and preprocessed. I will focus mainly on model and how was Overshot Day calculated. In my presentation I will compare different Countries and see if get some interesting insights with data analysis.
 - __Anticipated insights and their impact on business strategies:__ "There is no planet B"
