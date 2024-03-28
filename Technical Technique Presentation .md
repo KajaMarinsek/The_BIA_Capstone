@@ -13,7 +13,7 @@ Brief overview of the presentation topic:
 
 ##  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png)  Background
 - Current state of technology in the domain: __I am using Power BI Desktop 2.126.1261.0__
-- Challenges and opportunities: __Challenge is that I wished to create a *.json file with script to automatically set my theme background image to every page in my dashboard report. It seams this version does not support that. So I have focused on setting the background with uploading images whitin format page panel where I added some extra visuals.
+- Challenges and opportunities: __Challenge is that I wished to create a *.json file with a script to automatically set my theme background image to every page in my dashboard report. It seems this version does not support that. So I have focused on setting the background with uploading images whitin format page panel where I added some extra visuals.
 Also, as BIA professionals we only have a limited time to play with the design when presenting important data so the opportunity lies with knowing how to quickly beautify the presentation.__
 
 ## Presentation Candidate   ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png) 
