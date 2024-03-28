@@ -2,9 +2,11 @@
 
 # Business Intelligence Presentation Proposal
 
-## ![image]    Introduction 
+## ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png)    Introduction 
 Overview of the business intelligence topic:
  # THE EARTH OVERSHOOT DAY
+ ### Earth Overshoot Day is calculated by dividing Earth's biocapacity by man's ecological footprint and multiplying the result by 365 days. Similar calculations are applied on a country-by-country basis to determine Country Overshoot Days each year. [_[1.]World Economic Forum_](https://www.weforum.org/agenda/2023/08/earth-overshoot-day-human-consumption-biocapacity-ecological-footprint/#:~:text=Earth%20Overshoot%20Day%20is%20calculated,Country%20Overshoot%20Days%20each%20year)
+
 - __Significance of data-driven decision-making:__ The whole premise of Earth Overshoot Day is data!
   
         "Ecological Footprint© Explorer open data platform allows anyone to explore and download National Footprint and Biocapacity Accounts data. Updated every year, the Accounts track human demand and nature’s capacity to meet that demand for more than 200 countries."
@@ -16,11 +18,10 @@ Overview of the business intelligence topic:
 
 
 
-## Introduction  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png) 
+## Introduction  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png)
 
 Brief overview of the presentation topic: 
-# Earth Overshoot Day is calculated by dividing Earth's biocapacity by man's ecological footprint and multiplying the result by 365 days. Similar calculations are applied on a country-by-country basis to determine Country Overshoot Days each year. 
-https://www.weforum.org/agenda/2023/08/earth-overshoot-day-human-consumption-biocapacity-ecological-footprint/#:~:text=Earth%20Overshoot%20Day%20is%20calculated,Country%20Overshoot%20Days%20each%20year.
+
 
 
 ## Presentation Candidate
