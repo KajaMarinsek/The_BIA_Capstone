@@ -1,4 +1,4 @@
-![TechBanner](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/laptop-3361063_1280.jpg?raw=true)
+![TechBanner](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/Resized_BANER_TechLaptop.png)
 
 
 # Technical Technique Presentation Proposal
