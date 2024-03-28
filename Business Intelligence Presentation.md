@@ -34,11 +34,15 @@ A graduate civil engineer from Slovenia with passion for data ;)
 - __Anticipated insights and their impact on business strategies:__ "There is no planet B"
 
 
+## Implementation Plan
+
+- Necessary resources (BI tools, datasets, etc.)
+- Rehearsals and feedback sessions
 
 ##   Implementation Plan  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png) 
-- Timeline for the preparation of the presentation: __2 days:__
-- __DAY 1: Prepare a sample dashboard with data and than choose the photo for the bakcground with color scale.__
-- __DAY 2: Record the 2 minute presentation of the newly acquired skill with OBS and/or present in person in class.__
+- __Schedule for the development of the presentation:__ 2 weeks
+- Week 1: See what data i have and waht can i find. If not sofice search for subplementing data. EDA of data and building a model
+- Week 2: Build PowerBI dashboard about findings. Record the presentation and present in class.__
 - Resources required (software, hardware, etc.): __PC or laptop with PowerBI installed and permission to download images__
 - Practice sessions and dry runs: __no need, _ad lib_ is the best.__
 
@@ -56,10 +60,7 @@ A graduate civil engineer from Slovenia with passion for data ;)
 
 
 
-## Business Intelligence Techniques Demonstration
-- Overview of the selected business intelligence techniques
-- Process of applying these techniques to the chosen data
-- Anticipated insights and their impact on business strategies
+
 
 ## Implementation Plan
 - Schedule for the development of the presentation
