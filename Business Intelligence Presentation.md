@@ -40,7 +40,7 @@ A graduate civil engineer from Slovenia with passion for data ;)
 - __Necessary resources (BI tools, datasets, etc.):__ Computer that can handle Excel, SQL Server connection, Jupyter Notebook, PowerBI installed and permission to download images
 - __Rehearsals and feedback sessions:__ Again, no need, _ad lib_ is the best.__
 
-##  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png)   Conclusion  
+##  ![image](https://github.com/KajaMarinsek/The_BIA_Capstone/blob/main/images/ICONEarthLightbulb.png)   Conclusion  
 - __Recap of the expected contributions of the presentation:__ We will be richer for the knowledge of ecological footprint and how it is calculated and some more stats.
 - __Encouragement for audience engagement__ Disscussion on how could Canada's Overshoot day be moved further along in the year, living within the resources and special subtopic on how new technologies are not beeing most resource efficient...
 
