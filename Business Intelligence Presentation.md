@@ -2,34 +2,34 @@
 
 # Business Intelligence Presentation Proposal
 
-## Introduction 
+## ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png)    Introduction 
 Overview of the business intelligence topic:
  # THE EARTH OVERSHOOT DAY
-- Significance of data-driven decision-making: __The whole premise of Earth Overshoot Day is data! "Ecological Footprint© Explorer open data platform allows anyone to explore and download National Footprint and Biocapacity Accounts data. Updated every year, the Accounts track human demand and nature’s capacity to meet that demand for more than 200 countries." I will explore the data that infulences the longivity of countries and the Earth on the whole.__
-- Goals of the presentation: __I want to learn how the World Overshoot Day is obtaines and what parameters are included into the consideration.__
+ ### Earth Overshoot Day is calculated by dividing Earth's biocapacity by man's ecological footprint and multiplying the result by 365 days. Similar calculations are applied on a country-by-country basis to determine Country Overshoot Days each year. [_[1.]World Economic Forum_](https://www.weforum.org/agenda/2023/08/earth-overshoot-day-human-consumption-biocapacity-ecological-footprint/#:~:text=Earth%20Overshoot%20Day%20is%20calculated,Country%20Overshoot%20Days%20each%20year)
+
+- __Significance of data-driven decision-making:__ The whole premise of Earth Overshoot Day is data!
+  
+        "Ecological Footprint© Explorer open data platform allows anyone to explore and download National Footprint and Biocapacity Accounts data. Updated every year, the Accounts track human demand and nature’s capacity to meet that demand for more than 200 countries."
+  
+  I will explore the data that infulences the longivity of countries and the Earth on the whole.
+- __Goals of the presentation:__ I want to learn how the World Overshoot Day is obtained and what parameters are included into the calculations.
 
 
 
 
 
-## Introduction  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png) 
+## Introduction  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png)
 
 Brief overview of the presentation topic: 
-# Earth Overshoot Day is calculated by dividing Earth's biocapacity by man's ecological footprint and multiplying the result by 365 days. Similar calculations are applied on a country-by-country basis to determine Country Overshoot Days each year. 
-https://www.weforum.org/agenda/2023/08/earth-overshoot-day-human-consumption-biocapacity-ecological-footprint/#:~:text=Earth%20Overshoot%20Day%20is%20calculated,Country%20Overshoot%20Days%20each%20year.
 
-Setting Background IMAGES in the PowerBI Reports
-- Importance of the technical technique in the assigned domain: __I was assigned to the Team Reporting.__
-- Objectives of the presentation: __To present an easy shortcuts to background design of PowerBI dashboard reports.__
 
-##  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png)  Background
-- Current state of technology in the domain: __I am using Power BI Desktop 2.126.1261.0__
-- Challenges and opportunities: __Challenge is that I wished to create a *.json file with scrip to automaticaly set my theme background image to the every page in my dashboard report. It seams this version does notsupport that. So I have focused on setting the background with uploding images whitin format page pannel where I added some extra visuals.
-Also, as BIA professionals we only have a limited time to play with the design when presenting important data so the opputunity lies with knowing how to quickly beautify the presentation.__
 
-## Presentation Candidate   ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png) 
-- __Kaja Marinsek W0456542, NSCC student of graduate certificat in Business Intelligence and Analystics__
-- Relevant experience and expertise: __A graduate civil engineer from Slovenia with passion for data ;)__
+## Presentation Candidate
+- __Name and professional background:__ Kaja Marinsek W0456542, 
+A graduate civil engineer from Slovenia with passion for data ;)
+- __Experience with business intelligence tools and methodologies:__ NSCC student of graduate certificat in Business Intelligence and Analystics
+
+
 
 ##  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png)  Sample Data Selection
 - Criteria for selecting sample data: __I was drawn to National Footprint and Biocapacity Accounts 2023 free Public Data Package when I saw the beautiful infographic created by Global Footprint Network 2024, www.overshootday.org.__
