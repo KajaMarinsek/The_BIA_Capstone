@@ -21,7 +21,7 @@ Also, as BIA professionals we only have a limited time to play with the design w
 - Relevant experience and expertise: __A graduate civil engineer from Slovenia with passion for data ;)__
 
 ##  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png)  Sample Data Selection
-- Criteria for selecting sample data: __I was drawn to National Footprint and Biocapacity Accounts 2023 free Public Data Package when I saw the [beautiful infographic](https://www.overshootday.org/content/uploads/2023/01/Country-Overshoot-Days-2023-sm.jpg) created by Global Footprint Network 2024, www.overshootday.org.__
+- Criteria for selecting sample data: __I was drawn to National Footprint and Biocapacity Accounts 2023 free Public Data Package when I saw the [beautiful infographic](https://overshoot.footprintnetwork.org/newsroom/country-overshoot-days/) created by Global Footprint Network 2024, www.overshootday.org.__
 - Sources of sample data: https://www.footprintnetwork.org/licenses/public-data-package-free/
 - Relevance of the data to the demonstration: __This data is what I will work on my final project, I could demonstrate the technical technique with any background data and image.__
 
