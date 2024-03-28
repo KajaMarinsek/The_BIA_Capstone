@@ -33,18 +33,12 @@ A graduate civil engineer from Slovenia with passion for data ;)
 - __Process of applying these techniques to the chosen data:__ There is not a lots of data, from my main source i expext data to be pretty clean and preprocessed. I will focus mainly on model and how was Overshot Day calculated. In my presentation I will compare different Countries and see if get some interesting insights with data analysis.
 - __Anticipated insights and their impact on business strategies:__ "There is no planet B"
 
-
-## Implementation Plan
-
-- Necessary resources (BI tools, datasets, etc.)
-- Rehearsals and feedback sessions
-
 ##   Implementation Plan  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png) 
 - __Schedule for the development of the presentation:__ 2 weeks
 - Week 1: See what data i have and waht can i find. If not sofice search for subplementing data. EDA of data and building a model
 - Week 2: Build PowerBI dashboard about findings. Record the presentation and present in class.__
-- Resources required (software, hardware, etc.): __PC or laptop with PowerBI installed and permission to download images__
-- Practice sessions and dry runs: __no need, _ad lib_ is the best.__
+- __Necessary resources (BI tools, datasets, etc.):__ Computer that can handle Excel, SQL Server connection, Jupyter Notebook, PowerBI installed and permission to download images
+- __Rehearsals and feedback sessions:__ Again, no need, _ad lib_ is the best.__
 
 ##  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png)   Conclusion  
 - Summary of what will be achieved with the presentation: __My classemates and anybody watching the video/presentation will know how to quickly change their background and beautify dashboard for their future PowerBI presentations.__
