@@ -1,4 +1,4 @@
-![TechBanner](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/Resized_BANER_TechLaptop.png)
+![TechBanner](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/TechBanner.png)
 
 
 # Technical Technique Presentation Proposal
