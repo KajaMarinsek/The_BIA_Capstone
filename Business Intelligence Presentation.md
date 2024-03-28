@@ -74,7 +74,7 @@ A graduate civil engineer from Slovenia with passion for data ;)
 
 ## Conclusion
 - Recap of the expected contributions of the presentation
-- Encouragement for audience engagement
+- __Encouragement for audience engagement__ Disscussion on how could Canada's Overshoot day be moved further along in the year, living within the resources and special subtopic on how new technologies are not beeing most resource efficient...
 
 ## Appendices
 - Bibliography of business intelligence literature
