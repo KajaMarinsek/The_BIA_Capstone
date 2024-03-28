@@ -41,30 +41,15 @@ A graduate civil engineer from Slovenia with passion for data ;)
 - __Rehearsals and feedback sessions:__ Again, no need, _ad lib_ is the best.__
 
 ##  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png)   Conclusion  
-- Summary of what will be achieved with the presentation: __My classemates and anybody watching the video/presentation will know how to quickly change their background and beautify dashboard for their future PowerBI presentations.__
-- Call to action for the audience: __Apply it liberally.__
-
-##   Appendices  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png) 
-- References to technical literature: I really wanted for this to work: https://www.youtube.com/watch?v=GfonCEjQ13I&t=155s, but for me it unfortunately didnt. So I followed this instead: https://www.youtube.com/watch?v=dzJvTcCedm8&t=97s
-
-- Links to resources for further reading/watching: (https://www.youtube.com/watch?v=zaFTAT6_jCs&t=590s)
-
-
-
-
-
-
-
-
-## Implementation Plan
-- Schedule for the development of the presentation
-- Necessary resources (BI tools, datasets, etc.)
-- Rehearsals and feedback sessions
-
-## Conclusion
-- Recap of the expected contributions of the presentation
+- __Recap of the expected contributions of the presentation:__ We will be richer for the knowledge of ecological footprint and how it is calculated and some more stats.
 - __Encouragement for audience engagement__ Disscussion on how could Canada's Overshoot day be moved further along in the year, living within the resources and special subtopic on how new technologies are not beeing most resource efficient...
 
-## Appendices
-- Bibliography of business intelligence literature
-- Resources for additional learning and exploration
+##   Appendices  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png) 
+- __Bibliography of business intelligence literature:__
+-  https://data.footprintnetwork.org/#/compareCountries?type=earth&cn=all&yr=2019
+-  https://data.footprintnetwork.org/?_ga=2.88270553.33294145.1711548914-1762303090.1710981915#/
+     
+- __Resources for additional learning and exploration:__
+- Earth Overshoot Day. What is it and why do we need it? (2023, August 4). World Economic Forum. https://www.weforum.org/agenda/2023/08/earth-overshoot-day-human-consumption-biocapacity-ecological-footprint/#:~:text=Earth%20Overshoot%20Day%20is%20calculated,Country%20Overshoot%20Days%20each%20year.
+- https://www.footprintnetwork.org/licenses/public-data-package-free/
+- https://www.footprintnetwork.org/resources/footprint-calculator/
