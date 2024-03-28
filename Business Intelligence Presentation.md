@@ -22,8 +22,10 @@ A graduate civil engineer from Slovenia with passion for data ;)
 
 
 ## Data Selection ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png) 
-- Criteria for selecting sample data: __I was drawn to National Footprint and Biocapacity Accounts 2023 free Public Data Package when I saw the beautiful infographic created by Global Footprint Network 2024, www.overshootday.org.__
-- Sources of sample data: https://www.footprintnetwork.org/licenses/public-data-package-free/
+- __Criteria for choosing the dataset:__ I was drawn to National Footprint and Biocapacity Accounts 2023 free Public Data Package. I was searching for meaningful data, somthing temporal and with enough features.
+- __Potential sources for data acquisition:__ https://www.footprintnetwork.org/licenses/public-data-package-free/
+- __Relevance of the chosen data to the business domain:__ It depends on the business I guess. But this data is more about health of our planet!
+
 - Relevance of the data to the demonstration: __This data is what I will work on my final project, I could demonstrate the technical technique with any background data and image.__
 
 ## ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png)  Technical Technique Demonstration   
@@ -56,10 +58,7 @@ A graduate civil engineer from Slovenia with passion for data ;)
 
 
 
-## Data Selection
-- __Criteria for choosing the dataset:__ I was drawn to National Footprint and Biocapacity Accounts 2023 free Public Data Package. I was searching for meaningful data, somthing temporal and with enough features.
-- __Potential sources for data acquisition:__ https://www.footprintnetwork.org/licenses/public-data-package-free/
-- __Relevance of the chosen data to the business domain:__ 
+
 
 ## Business Intelligence Techniques Demonstration
 - Overview of the selected business intelligence techniques
