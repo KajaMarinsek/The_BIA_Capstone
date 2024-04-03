@@ -44,7 +44,7 @@ A graduate civil engineer from Slovenia with passion for data ;)
 - __Recap of the expected contributions of the presentation:__ We will be richer for the knowledge of ecological footprint and how it is calculated and some more stats.
 - __Encouragement for audience engagement__ Disscussion on how could Canada's Overshoot day be moved further along in the year, living within the resources and special subtopic on how new technologies are not beeing most resource efficient...
 
-##   Appendices  ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICONEarthCalendar.png) 
+##   Appendices  ![image](https://github.com/KajaMarinsek/The_BIA_Capstone/blob/main/images/ICONattach-file.png)
 - __Bibliography of business intelligence literature:__
 -  https://data.footprintnetwork.org/#/compareCountries?type=earth&cn=all&yr=2019
 -  https://data.footprintnetwork.org/?_ga=2.88270553.33294145.1711548914-1762303090.1710981915#/
