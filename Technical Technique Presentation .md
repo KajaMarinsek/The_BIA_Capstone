@@ -27,7 +27,7 @@ Also, as BIA professionals we only have a limited time to play with the design w
   
 - Relevance of the data to the demonstration: __This data is what I will work on my final project, I could demonstrate the technical technique with any background data and image.__
 
-## Technical Technique Demonstration   ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png) 
+## Technical Technique Demonstration   ![image](https://github.com/KajaMarinsek/Presentation-DOCS/blob/main/images/ICON_cogwheel.png) [VIDEO HERE](https://youtu.be/6Ktxhe9El1g)
 - Description of the technical technique: __Finding the buttons in the GUI__
 - Steps for applying the technique to the sample data:
 - __1. Choose any image that you want to use for the background of presentation pages of your dashboard design in Power BI and remember which folder you saved it to.__
